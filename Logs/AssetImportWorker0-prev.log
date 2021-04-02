@@ -1,0 +1,242 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 32718 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+G:\Unity\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity Projects/Oscilloscope
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49624
+Successfully changed project path to: E:/Unity Projects/Oscilloscope
+E:/Unity Projects/Oscilloscope
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.05 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path G:/Unity/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity Projects/Oscilloscope/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   
+    VRAM:     6052 MB
+    Driver:   27.21.14.6192
+Initialize mono
+Mono path[0] = 'G:/Unity/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'G:/Unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'G:/Unity/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56200
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: G:/Unity/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001132 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 22.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.935 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000523 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.853 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.8 MB.
+System memory in use after: 56.9 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1555.
+Total: 1.729600 ms (FindLiveObjects: 0.151300 ms CreateObjectMapping: 0.026900 ms MarkObjects: 1.470000 ms  DeleteObjects: 0.080300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Oscilloscope/Lightmap-0_comp_dir.png
+  artifactKey: Guid(0513b99453bf7b745a6a0e269aa5b053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Oscilloscope/Lightmap-0_comp_dir.png using Guid(0513b99453bf7b745a6a0e269aa5b053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2c7bd7c3ba72c610a121a825d5143d1') in 0.096580 seconds
+  Import took 0.098553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Scenes/Oscilloscope
+  artifactKey: Guid(444c1d0869d717b449c082561afd8b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Oscilloscope using Guid(444c1d0869d717b449c082561afd8b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75436feafaf756a454973a89bb090e5a') in 0.001401 seconds
+  Import took 0.002669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Scenes/Oscilloscope/LightingData.asset
+  artifactKey: Guid(ebd0ee8b1b3c8824ba0ffa114d856310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Oscilloscope/LightingData.asset using Guid(ebd0ee8b1b3c8824ba0ffa114d856310) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3362e7b03f15a4d3798f7c4bd4621fd2') in 0.005498 seconds
+  Import took 0.007094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Scenes/Oscilloscope/Lightmap-0_comp_shadowmask.png
+  artifactKey: Guid(988afd0368f108d4bbdb3c102be8f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Oscilloscope/Lightmap-0_comp_shadowmask.png using Guid(988afd0368f108d4bbdb3c102be8f763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6eb5b8427819968f361d471453b976d') in 0.006185 seconds
+  Import took 0.008335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(5f1d237a013d7af47ade49073f31a6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(5f1d237a013d7af47ade49073f31a6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed448cb6d23a22fa8e6114e592f330aa') in 0.001560 seconds
+  Import took 0.003249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Scenes/Oscilloscope/Lightmap-0_comp_light.exr
+  artifactKey: Guid(0817a539d6a2ef743987536a7bb10881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Oscilloscope/Lightmap-0_comp_light.exr using Guid(0817a539d6a2ef743987536a7bb10881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b10bf4601367feeff8ae9fb36f8e90d') in 0.031385 seconds
+  Import took 0.033081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Scenes/Oscilloscope/ReflectionProbe-1.exr
+  artifactKey: Guid(bbfa29b48f1859248860b4d4269a67e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Oscilloscope/ReflectionProbe-1.exr using Guid(bbfa29b48f1859248860b4d4269a67e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce5bd1300e4ddc8bbbd085f1d7e4f5fd') in 0.043177 seconds
+  Import took 0.044882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Scenes/Oscilloscope/Lightmap-0_comp_light.exr
+  artifactKey: Guid(0817a539d6a2ef743987536a7bb10881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Oscilloscope/Lightmap-0_comp_light.exr using Guid(0817a539d6a2ef743987536a7bb10881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b10bf4601367feeff8ae9fb36f8e90d') in 0.004690 seconds
+  Import took 0.006334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Scenes/Oscilloscope/ReflectionProbe-0.exr
+  artifactKey: Guid(6558ebb548598634e83014bfc27cf767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Oscilloscope/ReflectionProbe-0.exr using Guid(6558ebb548598634e83014bfc27cf767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0060bc783cc4eece6c4a5ab93fe12bc') in 0.031489 seconds
+  Import took 0.033210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.143334 seconds.
+  path: Assets/Scenes/Oscilloscope.unity
+  artifactKey: Guid(9d4d943136437384b9b827188578987c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Oscilloscope.unity using Guid(9d4d943136437384b9b827188578987c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3f577eacb834b63956849fa1665ea4') in 0.001959 seconds
+  Import took 0.003804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.820048 seconds.
+  path: Assets/Scenes/FuturiftV2
+  artifactKey: Guid(6300ebbac8761cf48adcec283e3e72ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FuturiftV2 using Guid(6300ebbac8761cf48adcec283e3e72ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baf8f25e5875059ab2e7e5c5fd0c133a') in 0.001691 seconds
+  Import took 0.003672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062363 seconds.
+  path: Assets/Scenes/FuturiftV2/HDR2.hdr
+  artifactKey: Guid(20e3caa0a6386864bbbad9ab05bdf798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FuturiftV2/HDR2.hdr using Guid(20e3caa0a6386864bbbad9ab05bdf798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc75afb4d2756bd56caf6e4ab6a5c276') in 0.013955 seconds
+  Import took 0.015897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Scenes/FuturiftV2/HDR_CUBEMAP.mat
+  artifactKey: Guid(7b3f94202df88094fa27fb2066d1c58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FuturiftV2/HDR_CUBEMAP.mat using Guid(7b3f94202df88094fa27fb2066d1c58b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b454566dd9d9ef503b26b3c9b5e9a242') in 0.034348 seconds
+  Import took 0.036036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.148336 seconds.
+  path: Assets/Scenes/FuturiftV2/PostProcessVolumes
+  artifactKey: Guid(16a318f1a2ac29b419fa77758d7bee79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FuturiftV2/PostProcessVolumes using Guid(16a318f1a2ac29b419fa77758d7bee79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb7fd4b2e16232d383ebf64a260dc36') in 0.001585 seconds
+  Import took 0.003369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043663 seconds.
+  path: Assets/Scenes/FuturiftV2/PostProcessVolumes/Post Volume Profile.asset
+  artifactKey: Guid(432967c53427be64981dcbc6b8f7255c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/FuturiftV2/PostProcessVolumes/Post Volume Profile.asset using Guid(432967c53427be64981dcbc6b8f7255c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f95377577c5fb42c97f9eb4505c1fa') in 0.002325 seconds
+  Import took 0.004233 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.016463 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[ScriptCompilation] NOT recompiling all scripts because this is an import worker process. Reason to compile was: Define symbols changed
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.907 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1228 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.0 MB.
+System memory in use after: 65.3 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1697.
+Total: 2.313400 ms (FindLiveObjects: 0.238300 ms CreateObjectMapping: 0.039400 ms MarkObjects: 1.412100 ms  DeleteObjects: 0.622500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000570 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.802 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1228 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.1 MB.
+System memory in use after: 65.4 MB.
+
+Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 1700.
+Total: 2.223900 ms (FindLiveObjects: 0.169600 ms CreateObjectMapping: 0.029500 ms MarkObjects: 1.388300 ms  DeleteObjects: 0.634900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
